@@ -10,7 +10,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ![Codewars](https://www.codewars.com/users/04_eva/badges/small)
-[![LeetCode user cinnam0n](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcinnam0n&logo=leetcode&logoColor=yellow)
+![LeetCode user cinnam0n](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcinnam0n&logo=leetcode&logoColor=yellow)
 
 ### About me:
 
