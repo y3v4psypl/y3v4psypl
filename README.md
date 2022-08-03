@@ -1,4 +1,9 @@
-### Badges:
+### Hi! I am Eva 👋
+
+- 👩‍💻 Web developer
+- 🗣️ English, Russian
+
+<br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,10 +33,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
+<br/>
+
 ![Codewars](https://www.codewars.com/users/04_eva/badges/small)
 <!-- ![LeetCode user cinnam0n](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcinnam0n&logo=leetcode&logoColor=yellow) -->
-
-### About me:
-
-* Junior frontend developer 
-* Languages: English, Russian
