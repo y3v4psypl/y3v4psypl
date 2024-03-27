@@ -1,6 +1,6 @@
 ### Hi! I am Eva 👋
 
-- 👩‍💻 Full-stack JS/TS developer
+- 👩‍💻 Full-stack JavaScript/TypeScript developer
 - 🗣️ English, Russian
 
 <br/>
